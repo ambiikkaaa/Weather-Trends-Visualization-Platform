@@ -19,27 +19,33 @@ The application offers real-time weather analysis, graphical visualizations, and
 
 ### Name of the city and it's current temperature
 
-<img width="1694" height="509" alt="Name of city and its Current temperature" src="https://github.com/user-attachments/assets/719a0b0d-991e-4eea-af4c-a86ce04fbcb5" />
+<img width="1694" height="509" alt="Name of city and its Current temperature" src="https://github.com/user-attachments/assets/2e477303-dbba-46d5-a8f0-ed9ea8674784" />
+
 
 ### Temperature over time
 
-<img width="1717" height="726" alt="Temperature over time" src="https://github.com/user-attachments/assets/05fcbf18-87cc-46af-9d68-8b9b87612686" />
+<img width="1717" height="726" alt="Temperature over time" src="https://github.com/user-attachments/assets/09f07366-e191-4c61-972d-08898d830a95" />
+
 
 ### Humidity over time
 
-<img width="1762" height="724" alt="Humidity over time" src="https://github.com/user-attachments/assets/23f92ea6-f721-4ca1-b12e-4adca027a38a" />
+<img width="1762" height="724" alt="Humidity over time" src="https://github.com/user-attachments/assets/d131ec05-9afa-4a38-9d3f-84774bc0e38b" />
+
 
 ### Wind speed variation
 
-<img width="1744" height="716" alt="Wind speed variation" src="https://github.com/user-attachments/assets/4fefddaf-78d1-4498-8647-733d84c1e635" />
+<img width="1744" height="716" alt="Wind speed variation" src="https://github.com/user-attachments/assets/6c03d8d6-2ccb-46de-9168-c9930c2982c6" />
+
 
 ### Weather condition distribution
 
-<img width="1718" height="659" alt="Weather condition distribution" src="https://github.com/user-attachments/assets/637a3a0c-edb6-4331-b5b3-c25afefe5e72" />
+<img width="1718" height="659" alt="Weather condition distribution" src="https://github.com/user-attachments/assets/94b90a0b-5538-4215-ad97-2555faa93519" />
+
 
 ### Temperature and humidity heatmap
 
-<img width="1763" height="728" alt="Temperature and humidity heatmap" src="https://github.com/user-attachments/assets/a1ee4385-c60e-4d47-9a03-8a757da2604c" />
+<img width="1763" height="728" alt="Temperature and humidity heatmap" src="https://github.com/user-attachments/assets/e0622848-edf0-4668-91f3-13077d334c5b" />
+
 
 
 
