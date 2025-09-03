@@ -76,11 +76,11 @@ if city:
 
         col1, col2, col3 = st.columns(3)
         with col1:
-            st.markdown(f"<div class='card'><p class='medium-font' style='color:black;'>🌡️ Avg Temp</p><p class='big-font'>{avg_temp}°C</p></div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='card'><p class='medium-font' style='color:white;'>🌡️ Avg Temp</p><p class='big-font'>{avg_temp}°C</p></div>", unsafe_allow_html=True)
         with col2:
-            st.markdown(f"<div class='card'><p class='medium-font' style='color:black;'>❄️ Min Temp</p><p class='big-font'>{min_temp}°C</p></div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='card'><p class='medium-font' style='color:white;'>❄️ Min Temp</p><p class='big-font'>{min_temp}°C</p></div>", unsafe_allow_html=True)
         with col3:
-            st.markdown(f"<div class='card'><p class='medium-font' style='color:black;'>🔥 Max Temp</p><p class='big-font'>{max_temp}°C</p></div>", unsafe_allow_html=True)
+            st.markdown(f"<div class='card'><p class='medium-font' style='color:white;'>🔥 Max Temp</p><p class='big-font'>{max_temp}°C</p></div>", unsafe_allow_html=True)
 
         st.markdown("---")
 
